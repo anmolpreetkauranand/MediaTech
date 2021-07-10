@@ -568,7 +568,6 @@ i {
         display: inline-block;
     }
 
-
     .navbar-hide {
         height: 100vh;
         background: #2c5364;
@@ -594,6 +593,7 @@ i {
     .navbar .menu li {
         text-align: center;
         padding: 4rem 0;
+        margin: 0;
         display: block;
     }
 
